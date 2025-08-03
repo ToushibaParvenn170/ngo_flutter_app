@@ -33,12 +33,25 @@ A cross-platform mobile application built using **Flutter (Dart)** for NGOs to s
 <img width="2797" height="1175" alt="Screenshot 2025-08-03 194120" src="https://github.com/user-attachments/assets/f4c9c66b-7912-4e02-8c54-5eb9248f1af8" />
 
 
+
+
+
 <img width="2841" height="1188" alt="Screenshot 2025-08-03 194142" src="https://github.com/user-attachments/assets/02a612e0-020a-404e-ad32-b926f7081303" />
+
+
+
 
 <img width="2834" height="1181" alt="Screenshot 2025-08-03 194330" src="https://github.com/user-attachments/assets/6e0d821c-d9ee-4ad4-a71f-eaf6acf9b169" />
 
 
+
+
+
 <img width="2594" height="1146" alt="Screenshot 2025-08-03 194212" src="https://github.com/user-attachments/assets/1374ac7b-84c8-47e2-80de-0217cf5a5b53" />
+
+
+
+
 
 
 <img width="1395" height="1273" alt="Screenshot 2025-08-03 194400" src="https://github.com/user-attachments/assets/629411eb-8e48-49a2-8a1a-a97d65f5f521" />
