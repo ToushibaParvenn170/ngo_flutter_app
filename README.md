@@ -39,7 +39,7 @@ A cross-platform mobile application built using **Flutter (Dart)** for NGOs to s
 
 
 
-## (2)NAVIGATION DRAWER -Provides quick access to different sections of the app, including the home page, volunteer registration form, and other program details.
+## (2)NAVIGATION DRAWER -Provides quick access to different sections of the app, including the home page, volunteer registration form.
 
 
 <img width="2841" height="1188" alt="Screenshot 2025-08-03 194142" src="https://github.com/user-attachments/assets/02a612e0-020a-404e-ad32-b926f7081303" />
